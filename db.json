@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "name": "mamatha rameshhh",
+      "username": "smamathaRamesh",
+      "email": "mamatha@divum.in",
+      "phone": "9900977652",
+      "website": "@mamatha.com",
+      "id": 1
+    },
+    {
+      "name": "abc",
+      "username": "abc",
+      "email": "mamathar032@gmail.com",
+      "phone": "",
+      "website": "@mamatha.com",
+      "id": 2
+    }
+  ]
+}
